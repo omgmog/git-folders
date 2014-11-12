@@ -7,12 +7,13 @@
 
 ## To use:
 
-1. Open the icon you wish to use in Preview.app
-2. Select all and copy (`cmd`+`a`, `cmd`+`c`)
-3. Select your folder in Finder
-4. Press `cmd`+`i` to open the 'Info' window
-5. Click the small icon at the top left of the window
-6. Paste the icon you copied earlier (`cmd`+`v`)
+1. Download the icons ([convenient link to the .tar.gz](https://github.com/omgmog/git-folders/raw/master/folder-icons.tar.gz))
+2. Open the icon you wish to use in Preview.app
+3. Select all and copy (`cmd`+`a`, `cmd`+`c`)
+4. Select your folder in Finder
+5. Press `cmd`+`i` to open the 'Info' window
+6. Click the small icon at the top left of the window
+7. Paste the icon you copied earlier (`cmd`+`v`)
 
 ![](http://i.imgur.com/DmP1pdq.gif)
 
